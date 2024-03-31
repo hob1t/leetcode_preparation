@@ -51,7 +51,6 @@ public class EasyIsSubsequence {
 		EasyIsSubsequence runner = new EasyIsSubsequence();
 		String s = "axc", t = "ahbgdc";
 		System.out.println(runner.isSubsequence(s, t));
-
 	}
 
 }
